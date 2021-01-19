@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Drowsy Alert</string>
+    <string name="title_activity_map">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="map_key" translatable="false">AIzaSyB42mHkTXTTozUPh7n0JjnRAXFniQ0dtHU</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
